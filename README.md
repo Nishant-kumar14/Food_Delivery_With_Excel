@@ -1,4 +1,5 @@
 # 🚀 Food Delivery Analytics Dashboard 🍕📊
+![food-delivery-cartoon-art-5v9o9io0pdi7ar20](https://github.com/user-attachments/assets/4dfcbbfd-a460-4b46-a0fb-aeac8ade0343)
 
 📌 A deep dive into food delivery efficiency, delays, and performance metrics using Power BI & Excel!
 
